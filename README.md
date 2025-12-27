@@ -1,2 +1,3 @@
 # droid6
-Full implementation of Gameloft's Droid6 CDN in php
+Implementation of Gameloft's Droid6 CDN in php
+THIS IS A W.I.P.
