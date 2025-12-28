@@ -3,7 +3,7 @@ Implementation of Gameloft's Droid6 CDN in php
 
 THIS IS A W.I.P.
 
-## WE (I because nobody cares about this) ARE NOT AFFLIATED WITH OR ENDORSED BY GAMELOFT S.A.
+## I AM NOT AFFLIATED WITH OR ENDORSED BY GAMELOFT S.A.
 ## THIS REPOSITORY DOES NOT CONTAIN ANY GAME FILES OR CODE BY GAMELOFT S.A.
 
 ## Simple usage
