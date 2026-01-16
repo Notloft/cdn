@@ -1,5 +1,5 @@
 <?php
-// cdn-redirect.php
+// d.cdn.php
 
 $dbFile = __DIR__ . '/products.json';
 if (!file_exists($dbFile)) {
